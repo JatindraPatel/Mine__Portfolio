@@ -63,7 +63,7 @@ bash
 Copy
 Edit
 # Clone repository
-git clone https://github.com/your-username/portfolio.git
+git clone (https://github.com/JatindraPatel/Mine__Portfolio/)
 
 # Open folder
 cd portfolio
